@@ -1,0 +1,1 @@
+A simple .md file containing 4500 Irish-English flashcard sentences for [https://github.com/st3v3nmw/obsidian-spaced-repetition](st3v3nmw's Spaced Repetition plugin) for Obsidian.md. These use the '??' separator, meaning the flashcards are automatically double-sided - both Irish-to-English and English-to-Irish.
