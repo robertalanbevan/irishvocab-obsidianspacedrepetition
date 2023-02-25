@@ -4,7 +4,7 @@ An adaptation of [michmech's Irish Sentence Bank](https://github.com/michmech/ir
 
 ## Installation
 
-Place IrishVocabulary.md into your Obsidian Vault directory. The Spaced Repetition plugin may take a few seconds to load it in, so be patient.
+Add #Irish to your tags in the settings for the Spaced Repetition plugin. Place IrishVocabulary.md into your Obsidian Vault directory. The Spaced Repetition plugin may take a few seconds to load it in, so be patient.
 
 ## License
 
